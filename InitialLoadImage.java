@@ -1,1 +1,16 @@
-
+        AllCatData.add(new Category("Flower", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Flower", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-2.jpg"));
+        AllCatData.add(new Category("Nature", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-3.jpg"));
+        AllCatData.add(new Category("Nature", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-6.jpg"));
+        AllCatData.add(new Category("Birds", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-7-610x915.jpg"));
+        AllCatData.add(new Category("Birds", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Baby's", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Baby's", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Friends", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Heart", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun raising", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
+        AllCatData.add(new Category("Sun", "https://wonderfulengineering.com/wp-content/uploads/2016/01/wallpaper-for-mobile-1-610x915.jpg"));
