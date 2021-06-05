@@ -1,2 +1,7 @@
 Sun,https://cdn.cnn.com/cnnnext/dam/assets/191003065611-01-storm-lorenzo-sunrise-england-scli-intl-exlarge-169.jpg
 Flowers,https://i.pinimg.com/236x/38/0e/8f/380e8f86dc2eddc981126e943f291014--nature-images-nature-photos.jpg
+Nature,https://i.pinimg.com/originals/37/6e/4e/376e4e0dab8e566bf85992ceedeb0ade.jpg
+Lake,https://i.pinimg.com/originals/c5/93/67/c593670d24d56b552bdcefec7d71688d.jpg
+Birds,https://i.ytimg.com/vi/-3N6fCzgXuc/maxresdefault.jpg
+Flowers,https://cdn.pixabay.com/photo/2018/10/30/16/06/water-lily-3784022__340.jpg
+Home,https://www.teahub.io/photos/full/10-106034_hd-wallpapers-for-android-of-nature.jpg
