@@ -1,2 +1,2 @@
-morning,sun,https://cdn.cnn.com/cnnnext/dam/assets/191003065611-01-storm-lorenzo-sunrise-england-scli-intl-exlarge-169.jpg
-morning,flowers,https://i.pinimg.com/236x/38/0e/8f/380e8f86dc2eddc981126e943f291014--nature-images-nature-photos.jpg
+Sun,https://cdn.cnn.com/cnnnext/dam/assets/191003065611-01-storm-lorenzo-sunrise-england-scli-intl-exlarge-169.jpg
+Flowers,https://i.pinimg.com/236x/38/0e/8f/380e8f86dc2eddc981126e943f291014--nature-images-nature-photos.jpg
