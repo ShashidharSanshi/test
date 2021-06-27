@@ -1,3 +1,5 @@
-Morning;Wisdom;Seek wisdom, not knowledge. Knowledge is of the past, wisdom is of the future. Proverb – Life always offers you a second chance, it’s called tomorrow;Anonymous
-Morning;Wisdom;Every phase in our life is bound to teach us something valuable… And it depends on us whether we understand the lessons or just turn the page.;Anonymous
-Morning;Appreciates;You will never be good enough for everybody, but you will always be the best for someone who really appreciates you.;Anonymous
+en;Wisdom;Seek wisdom, not knowledge. Knowledge is of the past, wisdom is of the future. Proverb – Life always offers you a second chance, it’s called tomorrow;Anonymous
+en;Wisdom;Every phase in our life is bound to teach us something valuable… And it depends on us whether we understand the lessons or just turn the page.;Anonymous
+en;Appreciates;You will never be good enough for everybody, but you will always be the best for someone who really appreciates you.;Anonymous
+kn;ನನ್ನಿಂದ ಸಾಧ್ಯವೇ;ನನ್ನಿಂದ ಸಾಧ್ಯವೇ ಎಂಬ ಪ್ರಶ್ನೆಯನ್ನು ನನ್ನಿಂದ ಸಾಧ್ಯ ಎಂದು ಬದಲಾಯಿಸುವುದು ಯಶಸ್ಸಿನ ಮೊದಲ ಹೆಜ್ಜೆ;ಶಶಿ ಸಂಶಿ
+hi;कोई;कोई आपको छोड़ के चला गया तो क्या हुआ | अब जो वो मिले उसकी दुनियां ठहर जानी चाहिए;कोई
