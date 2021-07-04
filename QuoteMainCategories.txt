@@ -1,1 +1,5 @@
-Wisdom;Appreciates
+Appreciates;
+Love;
+Truth;
+Time;
+Wisdom;
